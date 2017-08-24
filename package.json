@@ -1,0 +1,19 @@
+{
+  "name": "node-form",
+  "version": "0.0.1",
+  "description": "form demo",
+  "main": "server_final.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server_final.js"
+  },
+  "dependencies": {
+    "formdata": "^0.10.4",
+    "formidable": "^1.1.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mysql": "^2.14.1",
+    "url": "^0.11.0",
+    "util": "^0.10.3"
+  }
+}
